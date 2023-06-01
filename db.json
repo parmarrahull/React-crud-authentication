@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "Rahul",
+      "name": "Rahul Parmar",
+      "password": "rahul123",
+      "email": "rahul@email.com",
+      "phone": "9104744888",
+      "country": "india",
+      "address": "Limbdi",
+      "gender": "male"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    }
+  ],
+  "customer": [
+    {
+      "name": "Rahul Parmar",
+      "username": "rahul_parmar_999",
+      "email": "parmarrahul1974@gmail.com",
+      "phone": "9104744888",
+      "website": "",
+      "id": 1
+    }
+  ]
+}
